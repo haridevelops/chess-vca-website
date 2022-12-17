@@ -391,7 +391,6 @@ a{
     margin-bottom: 50px;
 }
 .about-area .nav-tabs li{
-    width: 50%;
     text-align: center;
 }
  .about-area .tab .nav-tabs li a {
@@ -507,6 +506,12 @@ h4.about-heading {
  }
 .single-service:hover{
     
+}
+.avatar {
+    vertical-align: middle;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
 }
  .service-img {
      height: 65px;
